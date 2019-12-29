@@ -1,6 +1,7 @@
-# list
+# Word list app
+My first Dart/Flutter app. Includes a tab menu navigation, and item favoritation !
 
-A new Flutter project.
+![](flutter_wordlist.gif)
 
 ## Getting Started
 
